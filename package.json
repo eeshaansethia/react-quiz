@@ -19,9 +19,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "http://eeshaansethia.github.io/react_quiz_practice/",
+    "homepage": "http://eeshaansethia.github.io/react-quiz",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
 
   },
   "eslintConfig": {
