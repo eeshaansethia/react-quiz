@@ -16,12 +16,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp build/index.html build/404.html",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "homepage": "eeshaansethia.github.io/react_quiz_practice",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
 
   },
   "eslintConfig": {
