@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "eeshaansethia.github.io/react_quiz_practice",
+    "homepage": "http://eeshaansethia.github.io/react_quiz_practice/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
 
